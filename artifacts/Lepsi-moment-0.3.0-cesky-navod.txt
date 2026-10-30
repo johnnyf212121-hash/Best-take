@@ -1,0 +1,72 @@
+LEPŠÍ MOMENT – ČESKÝ NÁVOD
+Testovací verze 0.3.0 pro Samsung Galaxy S24
+
+AKTUALIZACE
+Stáhněte Lepsi-moment-0.3.0.apk, otevřete jej a potvrďte aktualizaci.
+Předchozí verzi 0.1.0 nebo 0.2.0 neodinstalovávejte. Podpis je stejný a uložená
+rozpracovaná úprava zůstane zachována. Jde o testovací sestavu mimo Google Play.
+
+VÝBĚR FOTEK A ZVĚTŠENÝ NÁHLED
+1. Na úvodu klepněte na „Vybrat 2–6 fotek“.
+2. Android požádá o přístup k fotkám. Můžete povolit všechny, nebo jen
+   vybrané snímky. „Změnit dostupné fotky“ později rozšíří či změní výběr.
+   „Další zdroj…“ umožní přidat fotografie přes systémový výběr, včetně
+   dostupných cloudových poskytovatelů, i bez přístupu k celé galerii.
+3. V mřížce vyberte snímek klepnutím na fotku. Zaškrtnutí vlevo nahoře
+   se ukáže pouze u vybraných fotek. Dalším klepnutím výběr zrušíte.
+   Menší poloprůhledná ikona vpravo nahoře zvětší fotku přes oblast mřížky.
+   Horní ovládání a spodní potvrzovací tlačítko zůstávají.
+4. Ve zvětšeném náhledu přibližujte dvěma prsty a posouvejte jedním.
+   Checkbox vlevo nahoře je stále viditelný a fotku vybere nebo odznačí.
+   Tahem doleva přejdete na další fotku, doprava na předchozí.
+   Swipe přepíná při základním zvětšení; u přiblížené fotky tah posouvá
+   výřez. Šipky dole fungují při libovolném zvětšení.
+   Ikona vpravo nahoře vrátí mřížku. Její načtené náhledy zůstávají v paměti
+   i během zvětšeného náhledu, takže se při návratu znovu nenačítají.
+5. Po označení 2–6 podobných fotek stejné skupiny klepněte na „Použít
+   vybrané fotky“. Zvětšení samo o sobě fotografii nevybírá.
+
+VÝMĚNA VÝRAZU
+1. Zvolte hlavní fotku, kterou chcete zachovat.
+2. Klepněte na obličej nebo na tlačítko „Osoba“ pod fotografií.
+3. „Rámečky“ skryje nebo zobrazí identifikační označení. Výběr obličeje
+   klepnutím funguje i se skrytými rámečky.
+4. Hlavní fotografii lze přiblížit dvěma prsty a posouvat jedním prstem.
+5. Vyberte výraz stejného člověka z jiného snímku. Nabídka vychází z polohy,
+   nerozpoznává identitu. Při přesunu lidí použijte „Vybrat z dalších obličejů“.
+6. Pomocí „Před / Po“ porovnejte výsledek s původní fotkou. Velikost a posun
+   snímku zůstávají stejné. Původní fotku označuje poloprůhledný popisek
+   přes její spodní okraj; nezabírá další prostor pod fotografií.
+
+ŽIVÉ RUČNÍ DOLADĚNÍ
+Po náhradě výrazu klepněte na „Doladit“.
+Nahoře je obličej s okolím, přibližně poloviční velikosti náhledového rámu.
+Dole jsou posuvníky; pokud se všechny nevejdou, posuňte spodní panel.
+Náhled se mění už při pohybu posuvníků:
+- Posun vodorovně a svisle upraví polohu zdrojového výrazu.
+- Velikost obličeje mění jeho měřítko.
+- Natočení jemně otáčí zdrojový výraz.
+- Velikost masky: záporná hodnota zúží oblast náhrady (eroze), kladná
+  ji rozšíří (dilatace). Samotný obličej se tím nezvětšuje ani nezmenšuje.
+- Měkkost okrajů upraví šířku prolnutí.
+- Sladit barvy s hlavní fotkou vyrovnává barevný rozdíl u okraje.
+„Výchozí“ vrátí posuvníky na výchozí hodnoty a nechá doladění otevřené.
+„Použít“ potvrdí celé doladění jako jednu změnu. „Zrušit“ nebo systémové
+Zpět zavře doladění bez změny dříve potvrzeného výsledku.
+
+ULOŽENÍ, VRÁCENÍ A POKRAČOVÁNÍ
+„Uložit novou fotku“ vytvoří JPG v Pictures/Lepsi moment.
+Originály se nepřepisují. Lze upravit postupně více osob.
+„Původní“ obnoví výraz vybrané osoby, „Zpět“ vrátí poslední potvrzenou změnu.
+Po novém spuštění zvolte „Pokračovat v poslední úpravě“.
+Zdrojové snímky a oprávnění k nim musí zůstat dostupné.
+Změna hlavní fotografie zruší dosavadní výměny obličejů.
+
+TIPY A SOUKROMÍ
+Používejte ostré snímky ze stejné série s podobným světlem a natočením hlavy.
+Příliš velké otočení hlavy aplikace odmítne. Vlasy, ruka před obličejem
+nebo jiné světlo mohou zanechat viditelné přechody; výsledek zkontrolujte.
+Zpracování je v telefonu. Aplikace nemá oprávnění INTERNET.
+Export je JPG v sRGB/SDR, nejvýše 4096 px na delší straně.
+Nepřenáší se Ultra HDR, Motion Photo ani původní EXIF/GPS metadata.
+Nejde o oficiální aplikaci Googlu ani o záruku stejné kvality jako Best Take.

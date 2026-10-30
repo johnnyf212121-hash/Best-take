@@ -1,0 +1,50 @@
+LEPŠÍ MOMENT – ČESKÝ NÁVOD
+Testovací verze 0.1.0 pro Samsung Galaxy S24
+
+INSTALACE
+Stáhněte do telefonu soubor Lepsi-moment-0.1.0.apk a otevřete jej.
+Android může požádat o povolení instalace z aplikace, ve které soubor
+otevíráte. Jde o testovací sestavu, nikoli o aplikaci z Google Play.
+
+JAK VYMĚNIT NEPOVEDENÝ VÝRAZ
+1. Spusťte Lepší moment a vyberte 2–6 fotek stejné skupiny.
+   Nejlépe fungují snímky pořízené krátce po sobě.
+2. Zvolte hlavní fotku, kterou chcete zachovat.
+3. Klepněte na obličej člověka, jehož výraz chcete změnit.
+   Osobu můžete zvolit také tlačítkem pod fotografií.
+4. Z dalšího snímku vyberte lepší výraz stejného člověka.
+   Nabídka vychází z polohy, nikoli z rozpoznání identity.
+   Pokud se lidé přesunuli, použijte „Vybrat z dalších obličejů“.
+5. Přibližte fotografii dvěma prsty a porovnejte „Před / Po“.
+   „Doladit“ umožní upravit polohu, velikost, natočení, měkkost
+   okraje a sladění barev. Takto můžete upravit více lidí.
+6. Klepněte na „Uložit novou fotku“. Výsledek se uloží jako JPG
+   do Pictures/Lepsi moment. Původní fotografie se nepřepisují.
+
+VRÁCENÍ ZMĚN A POKRAČOVÁNÍ
+„Původní“ obnoví původní výraz vybrané osoby.
+„Zpět“ vrátí poslední změnu.
+Úprava se průběžně ukládá. Po novém spuštění zvolte
+„Pokračovat v poslední úpravě“. Zdrojové fotky musí zůstat dostupné.
+Změna hlavní fotografie zruší dosavadní výměny obličejů.
+
+TIPY PRO PŘIROZENÝ VÝSLEDEK
+Použijte podobně osvětlené, ostré snímky s podobným natočením hlavy.
+Výrazný profil, vlasy či ruka před obličejem nebo velká změna světla
+mohou zanechat viditelné přechody. Příliš odlišné natočení aplikace
+odmítne. Výsledek před uložením zkontrolujte ve zvětšení.
+
+SOUKROMÍ A ROZLIŠENÍ
+Zpracování probíhá přímo v telefonu, bez účtu a bez odesílání fotek.
+Aplikace nemá oprávnění INTERNET. Systémový výběr fotografií může
+nabídnout také fotky od vašeho cloudového poskytovatele.
+Export je JPG v sRGB/SDR, nejvýše 4096 pixelů na delší straně.
+Běžné fotky 4000 × 3000 px zůstanou v plném rozlišení, větší se zmenší.
+Nepřenáší se Ultra HDR, Motion Photo ani původní EXIF/GPS metadata.
+
+STAV TESTOVACÍ VERZE
+Prošlo 8 jednotkových a 3 integrační testy, včetně výměny obličeje,
+zachování okolí a druhé osoby, exportu a orientace EXIF.
+Fungování bylo ověřeno v emulátoru Androidu. Skutečný Samsung S24
+a přirozenost na vašich skupinových fotografiích ještě ověřené nejsou.
+Nejde o aplikaci od Googlu ani o záruku stejné kvality jako Best Take.

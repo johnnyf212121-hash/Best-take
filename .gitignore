@@ -1,0 +1,20 @@
+.gradle/
+.tooling/
+local.properties
+**/build/
+*.iml
+.idea/
+.DS_Store
+captures/
+# Build tools, machine settings and signing credentials stay local.
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+*.keystore
+*.jks
+*.pem
+*.key
+# Keep the delivered APKs, guides, checksums and verification screenshots in Git.
+artifacts/github-repository.png

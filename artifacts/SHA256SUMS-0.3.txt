@@ -1,0 +1,2 @@
+a31fae164b622ccbda57a3db84a8f499b87677e1e22d8d673e5b41fbcd61f596  Lepsi-moment-0.3.0.apk
+0f52db8152c804a3881378eb337a4935a89ba409b6b564b81dac952d897cf509  Lepsi-moment-0.3.0-cesky-navod.txt
